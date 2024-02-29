@@ -22,4 +22,4 @@ I am a passionate software engineer with a diverse background and a strong commi
 - Passionate about leveraging technology for social good and actively seek opportunities to contribute to projects that make a positive impact on society.
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anthonymeadows2000/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/anthonymeadows2000/)
